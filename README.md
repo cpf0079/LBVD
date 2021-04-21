@@ -6,3 +6,5 @@ We are making the Live Broadcasting Video Database (LBVD) available to the resea
 * P. Chen, L. Li, Y. Huang, F. Tan, and W. Chen. "QoE Evaluation for Live Broadcasting Video", In Proc. IEEE Int. Conf. Image Process. (ICIP), pages 454–458. IEEE, 2019.
 
 * P. Chen, L. Li, J. Wu, Y. Zhang, and W. Lin. "Temporal Reasoning Guided QoE Evaluation for Mobile Live Video Broadcasting", IEEE Transaction on Image Processing, vol. 30, pp. 3279-3292, 2021.
+
+About the LBVD_subjectivedata: Column 1 gives its MOS while Column 2 gives its variance.
