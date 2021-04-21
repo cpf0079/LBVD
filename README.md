@@ -1,4 +1,4 @@
-# LBVD
+# Live Broadcasting Video Database (LBVD)
 This repository is for the Live Broadcasting Video Database (LBVD) published at ICIP 2019. 
 
 We are making the Live Broadcasting Video Database (LBVD) available to the research community free of charge. If you use this database in your research, we kindly ask that you reference our papers listed below:
