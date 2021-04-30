@@ -1,7 +1,9 @@
 # Live Broadcasting Video Database (LBVD)
 This repository is for the Live Broadcasting Video Database (LBVD) published at ICIP 2019. 
 
-We are making the Live Broadcasting Video Database (LBVD) available to the research community free of charge. If you use this database in your research, we kindly ask that you reference our papers listed below:
+We are making the Live Broadcasting Video Database (LBVD) available to the research community free of charge. For more information about the LBVD dataset, please refer to the our work "QoE Evaluation for Live Broadcasting Video" published on ICIP, 2019.
+
+If you use this database in your research, we kindly ask that you reference our papers listed below:
 
 * P. Chen, L. Li, Y. Huang, F. Tan, and W. Chen. "QoE Evaluation for Live Broadcasting Video", In Proc. IEEE Int. Conf. Image Process. (ICIP), pages 454–458. IEEE, 2019.
 
