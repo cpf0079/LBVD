@@ -9,4 +9,4 @@ We are making the Live Broadcasting Video Database (LBVD) available to the resea
 
 * P. Chen, L. Li, J. Wu, Y. Zhang, and W. Lin. "Temporal Reasoning Guided QoE Evaluation for Mobile Live Video Broadcasting", IEEE Transaction on Image Processing, vol. 30, pp. 3279-3292, 2021.
 
-ps. About the LBVD_subjectivedata: Column 1 gives its MOS while Column 2 gives its variance.
+About the LBVD_subjectivedata: Column 1 gives its MOS while Column 2 gives its variance.
